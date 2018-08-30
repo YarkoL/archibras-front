@@ -8,7 +8,7 @@ https://github.com/alphadelphia/archibras
 Usage: After installing and starting Archibras, clone and install archibras-front.
 In installation directory issue 
 
-'node server.js
+`node server.js`
 
 and point your browser to localhost:8080
 
