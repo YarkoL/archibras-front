@@ -5,7 +5,10 @@ This is a browser interface for operating wallet and running node for a Peercoin
 cryptocurrency "Archibras"
 https://github.com/alphadelphia/archibras
 
-Usage: After installing and starting Archibras, clone and install archibras-front.
+Usage: After installing and starting Archibras, clone and install archibras-front with
+
+`yarn install`
+
 In installation directory issue 
 
 `node server.js`
